@@ -1,0 +1,662 @@
+Performance Beyond One's Ability, Version 2
+===========================================
+
+COPYRIGHT: github.com/enthor, 2021.
+
+This document is hereby placed in the Public Domain. However, I advise
+you to share this information only with close friends and trusted
+allies. It would be most unfortunate if, for example, one's enemies
+solved the problem of Mondays.
+
+----------------------------------------------------------------------
+
+PREFACE:
+
+This is Version 2 of a document titled, "Performing Beyond One's
+Abilities". If you would like a copy of Version 1, email me via
+github.com/enthor/performancebeyondV2 with your email address to
+receive a copy of the Jan. 26, 2021 pdf -- for personal,
+non-commercial, non-redistributive use only.
+
+"Mindfulness+Flow" is a practical mental technique for improving
+performance, especially for tasks requiring problem-solving,
+creativity and invention. It is not a Way. Also, humans have practiced
+various mental disciplines for thousands of years and it is very
+unlikely that "Mindfulness+Flow" is a new invention. My words are new,
+that is all.
+
+The name, "Mindfulness+Flow", was chosen for clarity with American
+readers because the terms "Mindfulness" and "Flow" are in common use
+and it is possible to convey some meaning using those words.
+
+Some kinds of knowledge cannot be explained with words; for these
+experience is required, and words are just signals, hints, or poetic
+allusions to ineffable truths. I know that the technique described
+here works because I use it. I can explain it for you but I cannot
+understand it for you. If, after reading this document, you are
+interested in pursuing the topic further it will be simple for you to
+do research and read more, but practice and work will be required to
+fully understand the benefits and limitations.
+
+
+----------------------------------------------------------------------
+
+DISCLAIMER:
+
+This document is my own work and represents my own ideas, beliefs,
+opinions and thoughts.
+
+I do not claim any credentials, expertise, training, warrants or
+authority of any kind whatsoever.
+
+Furthermore, I have been known to say and do stupid and foolish things
+on a regular basis. Nothing written here should be regarded as having
+more weight or validity than the ravings of a lunatic during a full
+moon.
+
+This document is intended to explain and systematize a practical
+technique for improving performance, "Mindfulness+Flow".
+
+It is based on my own experiences and is presented empirically,
+without proof. Translation: my claims are evidence-free, wholly
+imaginary and probably vastly inflated.
+
+That said, I use this technique all the time. It works...for me.
+Perhaps it will not work for you. Training, study and hard work are
+required to improve performance, there are no shortcuts in that
+regard. As always, TANSTAAFL: There ain't no such thing as a free
+lunch.
+
+This document is inherently dangerous because, as with any document
+containing words, it has the potential to convey information and/or
+knowledge, to alter beliefs and/or thoughts, and/or to change
+behaviors.
+
+The author disclaims any and all responsibility for what you do with
+this information. The safest course of action is to delete this
+document and submit to chemical mind-wipe. Then unplug your computer
+and put it in a wood chipper. Next, put the computer shreds into a
+concrete mixer and pour the concrete into a barrel. Then put the
+barrel onto a ship headed into the Pacific Ocean and push it overboard
+when you have reached the Mariana Trench.
+
+I literally beg you now: PLEASE DO NOT TO DO ANYTHING STUPID OR PUT
+YOURSELF OR OTHERS IN DANGER. Unless you enjoy that sort of thing...in
+which case, anything that happens is your own fault, not mine.
+
+
+----------------------------------------------------------------------
+
+THE FOUR STEPS OF "MINDFULNESS+FLOW": ("FOUR STEPS COMMENTARY" below)
+
+1. 	Form Intention Concerning Task Or Problem To Solve
+
+	If ready, proceed to Step 2; else Step 4.
+
+2. 	Relax Mind Using Non-Directed Mindfulness
+
+	If ready, proceed to Step 3; else Step 4.
+
+3. 	Enter Flow, Focusing Attention On Intended Task:
+
+	LOOP: Proceed until one of the following happens ->
+
+	3.1	If all tasks complete, proceed to Step 4.
+
+	3.2	If time limit reached, proceed to Step 4.
+
+	3.3 If confusion or sleepiness is experienced, proceed to Step 4.
+
+	3.4	If work halted because new problem is encountered,
+
+		3.4.1	Calmly remain in Flow and begin Directed Mindfulness,
+		lightly focusing attention on new problem; Continue this and:
+
+		3.4.2	Keeping new problem in the center of the Mind's Eye,
+		slightly defocus attention (zoom out) so that the problem can
+		be seen in the context of the original problem space; Continue
+		this and:
+
+		3.4.3	Allow the mind to roam, without volition or control,
+		free-associating new hypotheses and answers without
+		interference of the conscious mind, unhelpful emotions, or
+		previously held opinions; Continue this and:
+
+		3.4.4	Maintain Observer Status, waiting to be triggered by
+		solution or good idea; Continue this and:
+
+		3.4.5	Continue LOOP.
+
+
+4. Stop and Reflect. Repeat Steps 1, 2 and 3 as needed.
+
+
+----------------------------------------------------------------------
+
+REFERENCE MATERIAL AND EXPLANATIONS:
+
+(A) Mindfulness:
+
+	https://en.wikipedia.org/wiki/Mindfulness
+
+	Commentary (don't blame Wikipedia!):
+
+	(1) "Mindfulness" is very easy. Just relax the mind. Breathe
+	fully: in and out. Inhale, then Exhale. Repeat. Allow thoughts to
+	surface and pass by without judgement or volition, as if you are
+	watching fish in an aquarium. To begin, you might try counting
+	breaths and use a tiny bit of auto-suggestion: count backward from
+	ten and believe that when one is reached your mind will be calm
+	and peaceful. Breathe out your anxiety and stress. Breathe in
+	peace and calmness. It is natural for your "inner monologue" to
+	present thoughts and worries. Just allow them to float by, neither
+	repressing nor following them.
+
+	(2) If you are in great discomfort or full of adrenaline, it may
+	be difficult to calm the mind. An entire day may be required to
+	flush out the chemicals obstructing your calmness. Don't worry.
+	Just do your best. It is good enough if you simply try. That is
+	how to improve.
+
+	(3) In some cases your inner monologue will be incessant. For
+	example, if you are emotionally "torqued" about a past incident or
+	an upcoming event. In this case it is okay to stop and make note
+	of the situation. Acceptance is key. Admit that you are
+	emotionally torqued and analyze the situation rationally and
+	objectively. If there is a problem, try to fix it. If not, decide
+	to worry about it tomorrow. Or just forget it. The good news is
+	that your meditation brought something to your awareness and that
+	you were able to stop the inner harangue and deal with it. This is
+	a good thing: the meditation was halted but brought you
+	information!
+
+	(4) In time, given sufficient experience, you will be able to calm
+	your mind instantly. It is not necessary to go deep into a
+	meditative trance before entering Flow. In fact, a true master,
+	like, say, Miyamoto Musashi, would be able to perform the entire
+	Mindfulness+Flow technique and defeat his enemy instantaneously.
+	(He would call it "The Void", I think.) It is also not necessary
+	to sit in the Lotus position, or to close your eyes, or to feel
+	"spiritual". Those are good things and you can do them if you
+	like, but Mindfulness is a neurobiological state of mind, not
+	mystical (I think...)
+
+	(5) In Non-Directed Mindfulness you are not thinking about any
+	specific thing. Your attention is zoomed out to Infinity so that
+	you are aware of everything but focused on Nothing. That is what
+	we use in Step 2.
+
+	(6) Later, in Step 3.4, we calm the mind using Directed
+	Mindfulness meditation and focus lightly on the new problem to be
+	solved within the context of the original problem space. In this
+	case we keep the problem centered in our Mind's Eye, but without
+	pushing for a solution. Our attention is zoomed out part way, and
+	we allow it to dwell on the center while our mind roams
+	automatically and effortlessly over the whole space, looking up,
+	down, inside and out, connecting dots and making associations.
+	(It's a good deal for us: we get to relax and our mind has to do
+	work!)
+
+	(7) In both Directed and Non-Directed our conscious self maintains
+	"Observer Status", watching and noting but not interfering
+	consciously. This may require practice. Don't worry about it. Your
+	Observer will wake you up if a good idea or solution is generated!
+	You will feel excitement, satisfaction or happiness when this
+	happens. Learn to recognize the signs. And believe me, your mind
+	will be able to sort through all of the possibilities,
+	combinations and permutations much, much faster if you are not
+	consciously interfering and thinking about your feelings,
+	emotions, opinions or what you want for lunch!
+
+	(8) Also, remember that everything happens in the Now. When you
+	are in Directed Mindfulness, your job is to lightly focus
+	attention ONLY on the problem to be solved, not what happens
+	later. Only the problem. Not what time it is, not your deadline,
+	and not your belly. Time is an illusion. Space is illusion.
+	Problem is real!
+
+
+----------------------------------------------------------------------
+
+(B) Flow:
+
+	https://en.wikipedia.org/wiki/Flow_(psychology)
+
+	Commentary:
+
+	(1) "Flow" may be more difficult to achieve than Mindfulness.
+	Typically it would involve an activity one enjoys doing or
+	thinking about and knows very well. And it would probably involve
+	something desired very much -- an implacable, persistent desire
+	that will not quit. Flow is something like a fascination, an
+	ensorcelling or a rapture that transports the mind into another
+	realm. Psychologists say it involves a loss of "reflective
+	self-awareness" and sense of time. It is also reminiscent of
+	Alfred Jarry's Pataphysics: "... pataphysics as an idea that 'the
+	virtual or imaginary nature of things as glimpsed by the
+	heightened vision of poetry or science or love can be seized and
+	lived as real.'" (from the Wikipedia article).
+
+	(2) Flow is also called "The Zone" -- as in "being in the Zone".
+	Or, The Realm. Or the Void. To enter Flow, simply focus your your
+	Attention fully on your Intention. For example, while writing this
+	document I am in the Zone, focusing my Attention 100% on writing
+	this document because that is my Intention. It is my Intention
+	because it is my Intention, because it is my Intention... the
+	first cause does not exist while I am in the Zone. Self does not
+	exist, time does not exist; only Doing Now exists.
+
+	(3) As a practical matter for the beginner who is unfamiliar with
+	the experience, Flow is recognized after it ends. Don't worry
+	about being in it or not, just focus on the problem at hand!
+
+	(4) One way to experience Flow is with a good book; something
+	interesting and pleasant with likable characters. Begin reading
+	slowly and think carefully about each sentence -- every word --
+	and visualize everything that is happening in the story. If one
+	can visualize the scenes (and not everyone does this), then as one
+	is drawn into the story and the mind-pictures, the mind is
+	transported into the story world; reflective self-awareness and
+	sense of time disappear into Flow.
+
+	(5) Flow can be dangerous, except perhaps for someone like a Zen
+	Master, because the body may be ignored throughout the process. It
+	may be very wise to set a timer for, say, 45 minutes, and then get
+	up and walk around or do some calisthenics.
+
+	(6) Flow may also be dangerously addictive. It can easily turn
+	into what psychologists call Hyperfocus. Desire can become
+	obsession. It is possible to fall into a trap that lasts for years
+	or decades. A person might come to their senses and realize that a
+	wrong path was taken -- and that there is no time left in life for
+	a do-over. On the other hand, significant "real world" problems
+	may require years of focused concentration and dawn-to-dusk labor.
+	Nothing is free: if you want the ultimate you have to pay the
+	ultimate price. TANSTAAFL.
+
+
+----------------------------------------------------------------------
+
+(C) "The Enchiridion" by Epictetus, translated by Elizabeth Carter:
+
+	https://www.amazon.com/Enchiridion-Pocket-Epictetus/dp/153748222X
+
+	or (free version):
+
+		http://classics.mit.edu/Epictetus/epicench.html
+
+	Commentary:
+
+	(1) Stoic Logic and Philosophy seem quite relevant and useful for
+	improved performance with Mindfulness+Flow. There are many things
+	to ponder about what Epictetus teaches us. As you are likely
+	aware, Humans are probably the greatest Under-Achievers in the
+	Milky Way Galaxy. We also make a lot of mistakes and do stupid
+	things constantly. Most of us are not very happy and often when we
+	get what we thought we wanted we find that it just makes things
+	worse. Improving performance, then, seems like a goal nearly
+	everyone would be pursuing. But it appears that the exact opposite
+	is true! We should think more about this.
+
+	(2) Epictetus teaches in Chapter 1 that the only way to be happy
+	is to be free; and to be free we must desire only those things
+	within our control, and to be indifferent to things not in our
+	control. Those things in our own (absolute) control are our own
+	actions: our opinions, pursuits, desires and aversions. All of
+	which derive from our own mind and thoughts. Things not in our
+	control? Everything else. So, when we form an Intention and then
+	go into The Flow to perform that task, it ought to concern only a
+	thing within our own control (Chapter 19). Otherwise we will
+	likely be frustrated. Or if we succeed sometimes, we will be
+	taking pride in the acts of someone else and we will be unhappy
+	other times. Failure to fulfill an intention can be quite damaging
+	to one's psychology. So, as Epictetus teaches in Chapter 29, we
+	should consider carefully before undertaking a Task.
+
+	(3) Epictetus emphasizes over and over again the harm to self of
+	faulty logic and belief in things which are not true. See
+	especially Chapters 42, 44 and 45. This is very important to
+	understand when solving problems because when we enter a Flow
+	state, the only things we will find inside there are the things we
+	brought with us. If we bring falsehoods and a habit of sloppy
+	logic into the Flow, how can we generate valid solutions? We
+	cannot. It would be better to know nothing and to know that than
+	to think we know things which we do not. We should, as Epictetus
+	points out, avoid categorical logic about things we cannot
+	perfectly comprehend. Since the only absolute, unchanging,
+	knowable truths pertain to abstractions such as mathematics and
+	logic, we must be very careful about using the word "is" when
+	talking about the real world. If we prejudge a "real world"
+	situation and store that judgement as a "fact" in our brains, what
+	correct facts can be derive from it at a later time? Especially
+	since Reality is changing 10**43 times per second (according to
+	physicists.)
+
+	(4) Many of us have psychological obstructions that prevent us
+	from progressing. For example, many people "hate math" or have
+	anxiety about it. Learning new things seems to always involve some
+	discomfort. Even now after so many years I often feel frustrated
+	by my slowness in learning new things. And I compare myself to
+	others and feel stupid or ashamed. See Chapters 33 and 48. These
+	obstructions slow or halt our progress and impair performance. It
+	is irrelevant that someone else might be able to solve a given
+	problem faster. A quote from Thomas Edison about his light bulb
+	experiments illustrates the point: "I have not failed, I’ve just
+	found 10,000 ways in which it won’t work"
+	(https://thebl.com/culture/lifes-great-teachers.html). Epictetus
+	teaches us not to praise, blame, accuse or make comparisons to
+	other people. Ever. None of those modes of thought will benefit us
+	in the least while we are in The Flow solving a problem! They are
+	irrelevant.
+
+
+----------------------------------------------------------------------
+
+(C)	"The Art of Writing" (or "Wen Fu"), by Lu Chi, translated by
+Sam Hamill:
+
+	https://www.amazon.com/Art-Writing-Lu-Chis-Wen/dp/1571314121
+
+	Note: a translation which is free but perhaps not as highly
+	recommended is
+
+		http://web.mnstate.edu/gracyk/courses/web%20publishing/LuChi.
+		htm
+
+			"Lu Chi's Wen Fu
+
+			The Art of Writing (circa A.D. 300)
+
+			Based on a translation by Shih-Hsiang Chen, 1952, 
+			modified after consulting a translation by Sam Hamill,
+			1991.
+
+
+	Commentary:
+
+	(1) I cannot know precisely what Lu Chi meant since his words have
+	been translated very differently by Sam Hamill and Theodore
+	Gracyk. However, it appears from Sam Hamill's translation that Lu
+	Chi was familiar with the steps of Mindfulness+Flow. Chapters 1,
+	2, and 3 of the Wen Fu seem to correspond almost exactly to Steps
+	1, 2 and 3 of Mindfulness+Flow. I wouldn't wish to insult his
+	memory by stating that he invented it, and perhaps this is
+	coincidental -- or a case of form following function. In any case,
+	the fact that Lu Chi's work corresponds very well with the Four
+	Steps of Mindfulness+Flow convinces me that the technique is
+	valid, and not just my imagination or rationalization.
+
+	(2) If you can afford it, buy a copy of Sam Hamill's translation.
+	It is a nice little book that you will always be happy to have. I
+	would like to include some excerpts from it here but I do not feel
+	comfortable doing that since I imagine he wants to get paid.
+
+----------------------------------------------------------------------
+
+
+(D)	"A Book Of Five Rings", by Miyamoto Musashi (various
+translations):
+
+	https://www.amazon.com/Five-Rings-Miyamoto-Musashis-Strategy/dp/0785834001
+
+
+	or,
+
+	https://web.archive.org/web/20190125131917/http://www.bookoffiverings.com/
+
+
+	Commentary:
+
+	(1) Miyamoto Musashi is commonly acclaimed as the greatest
+	swordsman in history. His work, "A Book of Five Rings" is as much
+	about strategy as it is about fighting with swords:
+
+		This is the Way for men who want to learn my strategy:
+
+		Do not think dishonestly.
+
+		The Way is in training.
+
+		Become acquainted with every art.
+
+		Know the Ways of professions.
+
+		Distinguish between gain and loss in worldly matters.
+
+		Develop intuitive judgement and understanding for everything.
+
+		Perceive those things which cannot be seen.
+
+		Pay attention even to trifles.
+
+		Do nothing which is of no use.
+
+
+	(2) Musashi's thinking is instructive for anyone wishing to solve
+	problems. For example, he constantly admonishes the reader to
+	think deeply about things and to look at them in various, perhaps
+	unconventional ways. And this flexibility of thought always comes
+	back to the essentials, stripping away useless convention and
+	performative styling:
+
+		The true Way of sword fencing is the craft of defeating the
+		enemy in a fight, and nothing other than this. If you attain
+		and adhere to the wisdom of my strategy, you need never doubt
+		that you will win.
+
+	(3) The importance Musashi assigns to training is especially
+	relevant for solving problems using Mindfulness+Flow. The more
+	skills and facts that you know perfectly and can use without
+	having to consciously think about them, the faster your mind will
+	be able to solve problems while in the Flow. Your mind will be
+	able to shuffle through thousands, or even millions of
+	possibilities in an instant if you have perfect knowledge of all
+	relevant facts. If not, things will go much slower!
+
+
+----------------------------------------------------------------------
+
+FOUR STEPS COMMENTARY
+
+1. 	Form Intention Concerning Task Or Problem To Solve
+
+	If ready, proceed to Step 2; else Step 4.
+
+	--->Commentary:
+
+		(1) This step involves research, study, training and actually
+		forming an Intention of what to do. It is necessary to know
+		things in order to be creative. However, thinking more
+		broadly, it would be possible to use the Four Steps to perform
+		the task of Studying -- or practically any task involving
+		thought. Learning and retention of knowledge may be improved by
+		studying while in Flow.
+
+		(2) An Intention should be something which is under one's own
+		control, as defined by Epictetus (see above.) And if a task is
+		large, it may be wise to first break it down into smaller,
+		more manageable sub-tasks; this is wise because it is possible
+		to lose track of things during large projects, and often the
+		person with the best task list performs best.
+
+		(3) Behind an Intention is Will, the firmness of purpose and
+		commitment. There should be no doubts or mental reservations
+		about the task to be performed, or its necessity, desirability
+		and timing. If you have doubts, pause and reflect. Often in life,
+		timing is everything. Learn to trust yourself. Pay attention to
+		the small, still voices advising caution.
+
+
+2. 	Relax Mind Using Non-Directed Mindfulness
+
+	If ready, proceed to Step 3; else Step 4.
+
+	--->Commentary:
+
+		(1) Mindfulness was described in detail above. Proceed when
+		ready. Or pause and reflect. It may be that the portion of
+		your mind devoted to "Observer Status" will register some
+		information requiring action, but generally this step is just
+		a brief pause before entering Flow.
+
+
+3. 	Enter Flow, Focusing Attention On Intended Task:
+
+	LOOP: Proceed until one of the following happens ->
+
+	3.1	If all tasks complete, proceed to Step 4.
+
+	3.2	If time limit reached, proceed to Step 4.
+
+	--->Commentary:
+
+		(1) set a timer on your phone to make sure that you get up and
+		move your body every so often. Say, every 45 minutes. 
+
+	3.3 If confusion or sleepiness is experienced, proceed to Step 4.
+
+	--->Commentary:
+
+		(1) In the case where confusion is felt, that may mean that
+		the mental model is too incomplete, or is faulty, or is
+		incompatible with the problem to be solved. Go back to the
+		real world and try to explain the problem differently. Perhaps
+		the problem is really two different problems, or it is not
+		well defined. Break it down into simpler words! Draw a
+		diagram. Or, try to explain it to someone else. Go for a long
+		walk.
+
+		(2) In the case of sleepiness, a likely cause is failure to
+		fully understand some word or concept in the subject matter or
+		problem specification. Retreat to the "real" world and review
+		matters. Think deeply and study them until there is perfect
+		recall of the relevant facts and the fundamental definitions.
+
+
+	3.4	If work halted because new problem is encountered,
+
+		3.4.1	Calmly remain in Flow and begin Directed Mindfulness,
+		lightly focusing attention on new problem; Continue this and:
+
+		3.4.2	Keeping new problem in the center of the Mind's Eye,
+		slightly defocus attention (zoom out) so that the problem can
+		be seen in the context of the original problem space; Continue
+		this and:
+
+		3.4.3	Allow the mind to roam, without volition or control,
+		free-associating new hypotheses and answers without
+		interference by the conscious mind, unhelpful emotions, or
+		previously held opinions; Continue this and:
+
+		3.4.4	Maintain Observer Status, waiting to be triggered by
+		solution or good idea; Continue this and:
+
+		3.4.5	Continue LOOP.
+
+		--->Commentary:
+
+			(1) Step 3.4 is really the key part of Mindfulness+Flow,
+			and it is where the "magic" happens. It is not clear to me
+			if the magic is in simply allowing the brain to
+			parallel-process all possible solutions during free
+			association. An alternative but highly speculative
+			explanation of why Mindfulness+Flow works is that it
+			involves neural quantum computations involving infinite
+			copies of you in nearby parallel universes. Recall that
+			according to David Deutsch, inventor of Quantum
+			Computational Networks, parallel universes interact (only)
+			through quantum interference, and since our brains
+			constantly generate electromagnetic waves, which are
+			subject to quantum interference, we cannot yet rule out
+			neural quantum computations as an hypothesis...and this
+			could explain how it is possible to obtain absurdly great
+			results from time to time!
+
+			(2) I have used Mindfulness+Flow enough times during code
+			debugging to know that it works very well when done
+			properly, and not at all when done incorrectly. For
+			example, if I become anxious to find a bug so that I can
+			proceed to the next task, I've ruined everything! It is
+			absolutely necessary to focus on the current task and to
+			stay in The Now.
+
+			(3) Sometimes a solution arrives very fast. And in some
+			cases an answer may not arrive for days. For example, in
+			documentation written by someone who already understands
+			everything perfectly, the author may have omitted crucial
+			information which a student -- who knows nothing -- will
+			require. In this case it is necessary to research the
+			foundational elements of the discussion in greater depth
+			so that the reasons why things are the way they are may be
+			deduced, or guessed using inductive thought (as Musashi
+			says, "Perceive those things which cannot be seen.)
+
+			(4) It is possible to calmly and gently scan a document
+			(or code) while remaining in Mindfulness+Flow, and to try
+			to allow your mind to spot something that needs work or
+			research. Just scan up and down slowly without focusing
+			too intently and see if your mind spots anything of
+			interest.
+
+			(5) It is important to stay calm and patient even if an
+			answer does not materialize right away. You may need to
+			pause momentarily, perhaps to register awareness of
+			something your Observer Status picked up, a potential new
+			problem. For example, your mind may register that a
+			concept's meaning is unclear. Or your intuition may nudge
+			you towards a problem area but not explicitly reveal what
+			is wrong, just that something is not quite right.
+
+			(6) Finally, stay happy. A problem is just another puzzle,
+			and you can do it! Have faith in yourself, even if you
+			have to repeat the Four Steps multiple times. If
+			necessary, you can always stop and do more research or
+			conduct an experiment to gather more information. Your
+			personal experience will guide you in this matter, and you
+			will be able to choose how to proceed. Never be afraid to
+			just take everything apart and start over. It may be that
+			your entire project needs to be redone from the beginning.
+			That has happened to me several times, and I was always
+			glad I made that choice because a) the do-over always
+			proceeds much faster than expected, and b) lessons learned
+			from the first attempt are worth the price paid!
+
+
+4. Stop and Reflect. Repeat Steps 1, 2 and 3 as needed.
+
+		--->Commentary:
+
+		(1) Always test any solution derived from Mindfulness+Flow. It
+		may be correct, or not! Or it might not be the optimal
+		solution. Or it might be partly correct, requiring adjustments
+		(that is very likely!) You can do another Four Steps to
+		perform this evaluation and see if any problems appear.
+
+		(2) If you have been working on a project for a long time then
+		your problem space in "The Zone" will not self-destruct when
+		you stop. Each time you go back into the Flow it will be
+		easier and faster than the previous time. So don't worry about
+		slow beginnings, and don't be afraid of taking proper rest and
+		exercise breaks. In fact, it is possible to keep the problem
+		space and Flow running in the background while you go for a
+		nice walk or take a nap. It's all good. Haste makes waste.
+		Tired is Stupid.
+
+		(3) It is wise to make some notes after doing work in the
+		Flow. Keep track of what you accomplished and anything you
+		learned or new ideas you had. Being in Flow is a little bit
+		dreamy and sometimes a lot happens in a very short amount of
+		time! You might end up doing an entire day's work in just one
+		hour, and later you'll be very glad to have some written notes
+		documenting those accomplishments. For example, if you return
+		to the work after a few years, those notes which explain your
+		train of thought or chain of logic may be invaluable -- and
+		when you get promoted your successor will be happy to have
+		them.
+
+
+----------------------------------------------------------------------
+
+THE END
+
+
