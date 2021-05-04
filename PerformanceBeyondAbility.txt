@@ -1,5 +1,5 @@
-Performance Beyond One's Ability, Version 2
-===========================================
+Performance Beyond One's Ability, Version 2 (as of 2021-05-03)
+==============================================================
 
 COPYRIGHT: github.com/enthor, 2021.
 
@@ -44,22 +44,14 @@ fully understand the benefits and limitations.
 DISCLAIMER:
 
 This document is my own work and represents my own ideas, beliefs,
-opinions and thoughts.
+opinions and thoughts. It is intended to explain and systematize a
+practical technique for improving performance, "Mindfulness+Flow".
 
 I do not claim any credentials, expertise, training, warrants or
 authority of any kind whatsoever.
 
-Furthermore, I have been known to say and do stupid and foolish things
-on a regular basis. Nothing written here should be regarded as having
-more weight or validity than the ravings of a lunatic during a full
-moon.
-
-This document is intended to explain and systematize a practical
-technique for improving performance, "Mindfulness+Flow".
-
-It is based on my own experiences and is presented empirically,
-without proof. Translation: my claims are evidence-free, wholly
-imaginary and probably vastly inflated.
+The writing is based on my own experiences and is presented
+empirically, without proof.
 
 That said, I use this technique all the time. It works...for me.
 Perhaps it will not work for you. Training, study and hard work are
@@ -67,22 +59,17 @@ required to improve performance, there are no shortcuts in that
 regard. As always, TANSTAAFL: There ain't no such thing as a free
 lunch.
 
-This document is inherently dangerous because, as with any document
-containing words, it has the potential to convey information and/or
-knowledge, to alter beliefs and/or thoughts, and/or to change
-behaviors.
+This document is inherently dangerous because, as with so many other
+documents, it contains words. Please use this information wisely.
 
-The author disclaims any and all responsibility for what you do with
-this information. The safest course of action is to delete this
-document and submit to chemical mind-wipe. Then unplug your computer
-and put it in a wood chipper. Next, put the computer shreds into a
-concrete mixer and pour the concrete into a barrel. Then put the
-barrel onto a ship headed into the Pacific Ocean and push it overboard
-when you have reached the Mariana Trench.
+The author disclaims any and all responsibility for your actions. For
+absolutely safety, the author suggests that you immediately avert your
+eyes, delete this document and submit to chemical mind-wipe. Then
+unplug your computer and put it in a wood chipper. Next, put the
+computer shreds into a concrete mixer and pour the concrete into a
+barrel. Then put the barrel onto a ship headed into the Pacific Ocean
+and push it overboard when you have reached the Mariana Trench.
 
-I literally beg you now: PLEASE DO NOT TO DO ANYTHING STUPID OR PUT
-YOURSELF OR OTHERS IN DANGER. Unless you enjoy that sort of thing...in
-which case, anything that happens is your own fault, not mine.
 
 
 ----------------------------------------------------------------------
@@ -629,8 +616,10 @@ FOUR STEPS COMMENTARY
 		(1) Always test any solution derived from Mindfulness+Flow. It
 		may be correct, or not! Or it might not be the optimal
 		solution. Or it might be partly correct, requiring adjustments
-		(that is very likely!) You can do another Four Steps to
-		perform this evaluation and see if any problems appear.
+		(that is very likely!) And there may be deeper, more profound
+		Truths awaiting your discovery, so keep digging! You can do
+		another Four Steps to perform this evaluation and see if any
+		problems appear.
 
 		(2) If you have been working on a project for a long time then
 		your problem space in "The Zone" will not self-destruct when
