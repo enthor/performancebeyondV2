@@ -8,6 +8,7 @@ you to share this information only with close friends and trusted
 allies. It would be most unfortunate if, for example, one's enemies
 solved the problem of Mondays.
 
+
 ----------------------------------------------------------------------
 
 PREFACE:
@@ -69,7 +70,6 @@ unplug your computer and put it in a wood chipper. Next, put the
 computer shreds into a concrete mixer and pour the concrete into a
 barrel. Then put the barrel onto a ship headed into the Pacific Ocean
 and push it overboard when you have reached the Mariana Trench.
-
 
 
 ----------------------------------------------------------------------
@@ -647,5 +647,3 @@ FOUR STEPS COMMENTARY
 ----------------------------------------------------------------------
 
 THE END
-
-
