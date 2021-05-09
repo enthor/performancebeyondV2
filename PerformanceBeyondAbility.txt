@@ -426,10 +426,10 @@ translations):
 	back to the essentials, stripping away useless convention and
 	performative styling:
 
-		The true Way of sword fencing is the craft of defeating the
+		"The true Way of sword fencing is the craft of defeating the
 		enemy in a fight, and nothing other than this. If you attain
 		and adhere to the wisdom of my strategy, you need never doubt
-		that you will win.
+		that you will win."
 
 	(3) The importance Musashi assigns to training is especially
 	relevant for solving problems using Mindfulness+Flow. The more
