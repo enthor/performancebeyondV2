@@ -14,10 +14,7 @@ solved the problem of Mondays.
 PREFACE:
 
 This is Version 2 of a document titled, "Performing Beyond One's
-Abilities". If you would like a copy of Version 1, email me via
-github.com/enthor/performancebeyondV2 with your email address to
-receive a copy of the Jan. 26, 2021 pdf -- for personal,
-non-commercial, non-redistributive use only.
+Abilities", dated Jan. 26, 2021 pdf.
 
 "Mindfulness+Flow" is a practical mental technique for improving
 performance, especially for tasks requiring problem-solving,
