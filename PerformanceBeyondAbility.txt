@@ -57,16 +57,16 @@ required to improve performance, there are no shortcuts in that
 regard. As always, TANSTAAFL: There ain't no such thing as a free
 lunch.
 
-This document is inherently dangerous because, as with so many other
-documents, it contains words. Please use this information wisely.
+Mindfulness+Flow is potentially hazardous to your physical and mental
+health. Please use the information in this document with caution.
 
-The author disclaims any and all responsibility for your actions. For
-absolutely safety, the author suggests that you immediately avert your
-eyes, delete this document and submit to chemical mind-wipe. Then
-unplug your computer and put it in a wood chipper. Next, put the
-computer shreds into a concrete mixer and pour the concrete into a
-barrel. Then put the barrel onto a ship headed into the Pacific Ocean
-and push it overboard when you have reached the Mariana Trench.
+The author disclaims any and all responsibility for your actions.
+
+
+
+
+
+
 
 
 ----------------------------------------------------------------------
