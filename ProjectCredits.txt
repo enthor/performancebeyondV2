@@ -1,5 +1,117 @@
 Project Credits:
 
+Cat: "Pookey"
+
+    (I'd upload her pic but I doubt that github wishes to be known as a
+    repository of cat pictures...)
+ 
+
+Metaphysics: David Deutsch
+
+    "All of them agree with Everett’s original theory that generically,
+    when an experiment is observed to have a particular result, all the
+    other possible results also occur and are observed simultaneously by
+    other instances of the same observer who exist in physical reality –
+    whose multiplicity the various Everettian theories refer to by terms
+    such as ‘multiverse’, ‘many universes’, ‘many histories’ or even
+    ‘many minds’."
+
+    --David Deutsch, The Clarendon Laboratory, University of Oxford,
+    "The Logic of Experimental Tests, Particularly of Everettian Quantum
+    Theory", June 2016
+
+
+Music Videos: Jackson Browne, Queen, Helen Adu (Sade) and Carlos Santana
+
+    Jackson Browne - For a Dancer - Live @ The Santa Barbara Bowl - 2015
+    https://www.youtube.com/watch?v=aaO0BMhma3c
+
+    Queen - Under pressure - (Live at Wembley) - 1985 
+    https://www.youtube.com/watch?v=OVzvoPP6M50
+
+	Sade - Nothing Can Come Between Us - Official - 1988
+	https://www.youtube.com/watch?v=_oVI0GW-Xd4
+
+	Santana - Why Can't We Live Together - Live In Santiago - 1992
+	https://www.youtube.com/watch?v=QWvV5w_GfDQ
+
+
+Novels: John le Carré and Martin Cruz Smith
+
+    "There was only now, Goethe was right. There was no tomorrow because
+    tomorrow was the excuse. There was now, or there was nowhere."
+
+    ―-John le Carré, "The Russia House"
+
+    "It doesn't matter how ridiculous a lie is if it is your only chance
+    of escape. It doesn't matter how obvious the truth is if the truth
+    is that you'll never escape."
+
+    ―-Martin Cruz Smith, "Gorky Park"
+
+
+Numbers: Douglas Adams
+
+    "recipriversexcluson, a number whose existence can only be defined
+    as being anything other than itself"
+
+    "Recipriversexclusons now play a vital part in many branches of
+    math, including statistics and accountancy and also form the basic
+    equations used to engineer the Somebody Else's Problem field."
+
+    --Douglas Adams, "Life, the Universe and Everything"
+
+
+Pataphysics: Alfred Jarry
+
+    "... pataphysics as an idea that 'the virtual or imaginary nature of
+    things as glimpsed by the heightened vision of poetry or science or
+    love can be seized and lived as real.'"
+
+    Pataphysics, Wikipedia
+
+
+Philosophy: Epictetus
+
+    1. Some things are in our control and others not. Things in our
+    control are opinion, pursuit, desire, aversion, and, in a word,
+    whatever are our own actions. Things not in our control are body,
+    property, reputation, command, and, in one word, whatever are not
+    our own actions.
+
+    The things in our control are by nature free, unrestrained,
+    unhindered; but those not in our control are weak, slavish,
+    restrained, belonging to others. Remember, then, that if you suppose
+    that things which are slavish by nature are also free, and that what
+    belongs to others is your own, then you will be hindered. You will
+    lament, you will be disturbed, and you will find fault both with
+    gods and men. But if you suppose that only to be your own which is
+    your own, and what belongs to others such as it really is, then no
+    one will ever compel you or restrain you. Further, you will find
+    fault with no one or accuse no one. You will do nothing against your
+    will. No one will hurt you, you will have no enemies, and you not be
+    harmed.
+
+    Aiming therefore at such great things, remember that you must not
+    allow yourself to be carried, even with a slight tendency, towards
+    the attainment of lesser things. Instead, you must entirely quit
+    some things and for the present postpone the rest. But if you would
+    both have these great things, along with power and riches, then you
+    will not gain even the latter, because you aim at the former too:
+    but you will absolutely fail of the former, by which alone happiness
+    and freedom are achieved.
+
+    Work, therefore to be able to say to every harsh appearance, "You
+    are but an appearance, and not absolutely the thing you appear to
+    be." And then examine it by those rules which you have, and first,
+    and chiefly, by this: whether it concerns the things which are in
+    our own control, or those which are not; and, if it concerns
+    anything not in our control, be prepared to say that it is nothing
+    to you.
+
+    --Epictetus, The Enchiridion
+
+
 Poetry: Lord Alfred Tennyson
 
 	"Old age hath yet his honour and his toil; 
@@ -18,77 +130,20 @@ Poetry: Lord Alfred Tennyson
 	- Lord Alfred Tennyson, "Ulysses"
 
 
-Metaphysics: David Deutsch
+Software: Apple, Bare Bones, Github, Python, Wolfram
 
-	"All of them agree with Everett’s original
-	theory that generically, when an experiment
-	is observed to have a particular result, all
-	the other possible results also occur and are
-	observed simultaneously by other instances of
-	the same observer who exist in physical
-	reality – whose multiplicity the various
-	Everettian theories refer to by terms such as
-	‘multiverse’, ‘many universes’, ‘many
-	histories’ or even ‘many minds’."
+    Numbers, by Apple Inc
+    https://www.apple.com/numbers/
 
-	--David Deutsch, The Clarendon Laboratory,
-	University of Oxford, "The Logic of
-	Experimental Tests, Particularly of
-	Everettian Quantum Theory", June 2016
+    BBEdit, by Bare Bones Software, Inc.
+    https://www.barebones.com/products/bbedit/
 
+    Github Desktop, Github, Inc.
+    https://desktop.github.com
 
-Pataphysics: Alfred Jarry
+    Python 3, Python Software Foundation
+    https://www.python.org
 
-	"... pataphysics as an idea that 'the virtual
-	or imaginary nature of things as glimpsed by 
-	the heightened vision of poetry or science 
-	or love can be seized and lived as real.'"
+    Wolfram|Alpha Pro, by Wolfram LLC
+    https://www.wolframalpha.com/pro/
 
-	Pataphysics, Wikipedia
-
-
-Music Videos: Carlos Santana and Helen Adu (Sade) 
-
-	Santana - Why Can't We Live Together Live In Santiago 1992
-	https://www.youtube.com/watch?v=QWvV5w_GfDQ
-
-	Sade - Nothing Can Come Between Us - Official - 1988
-	https://www.youtube.com/watch?v=_oVI0GW-Xd4
-
-
-Cat: "Pookey"
-
-	(I'd upload her pic but I doubt that github wishes
-	to be known as a repository of cat pictures...)
- 
-
-Numbers: Douglas Adams
-
-	"recipriversexcluson, a number whose 
-	existence can only be defined as being 
-	anything other than itself"
-
-	"Recipriversexclusons now play a vital 
-	part in many branches of math, including 
-	statistics and accountancy and also form 
-	the basic equations used to engineer the 
-	Somebody Else's Problem field."
-
-	--Douglas Adams, "Life, the Universe and
-	Everything"
-
-
-Novels: John le Carré and Martin Cruz Smith
-
-	"There was only now, Goethe was right. There 
-	was no tomorrow because tomorrow was the 
-	excuse. There was now, or there was nowhere."
-
-	―-John le Carré, "The Russia House"
-
-	"It doesn't matter how ridiculous a lie is if 
-	it is your only chance of escape. It doesn't 
-	matter how obvious the truth is if the truth 
-	is that you'll never escape."
-
-	―-Martin Cruz Smith, "Gorky Park"
