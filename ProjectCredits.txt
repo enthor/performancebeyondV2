@@ -4,7 +4,7 @@ Cat: "Pookey"
 
     (I'd upload her pic but I doubt that github wishes to be known as a
     repository of cat pictures...)
- 
+
 
 Metaphysics: David Deutsch
 
@@ -21,19 +21,22 @@ Metaphysics: David Deutsch
     Theory", June 2016
 
 
-Music Videos: Jackson Browne, Queen, Helen Adu (Sade) and Carlos Santana
+Music Videos:
 
     Jackson Browne - For a Dancer - Live @ The Santa Barbara Bowl - 2015
     https://www.youtube.com/watch?v=aaO0BMhma3c
 
-    Queen - Under pressure - (Live at Wembley) - 1985 
+    Queen - Under pressure - (Live at Wembley) - 1985
     https://www.youtube.com/watch?v=OVzvoPP6M50
 
-	Sade - Nothing Can Come Between Us - Official - 1988
-	https://www.youtube.com/watch?v=_oVI0GW-Xd4
+	Rochelle & The Sidewinders - See Things Clear
+    https://www.youtube.com/watch?v=y6PDLUUk6C0
 
-	Santana - Why Can't We Live Together - Live In Santiago - 1992
-	https://www.youtube.com/watch?v=QWvV5w_GfDQ
+    Sade - Nothing Can Come Between Us - Official - 1988
+    https://www.youtube.com/watch?v=_oVI0GW-Xd4
+
+    Santana - Why Can't We Live Together - Live In Santiago - 1992
+    https://www.youtube.com/watch?v=QWvV5w_GfDQ
 
 
 Novels: John le Carré and Martin Cruz Smith
@@ -114,20 +117,20 @@ Philosophy: Epictetus
 
 Poetry: Lord Alfred Tennyson
 
-	"Old age hath yet his honour and his toil; 
-	Death closes all: but something ere the end, 
-	Some work of noble note, may yet be done, 
-	Not unbecoming men that strove with Gods. 
-	The lights begin to twinkle from the rocks: 
-	The long day wanes: the slow moon climbs: the deep 
-	Moans round with many voices. Come, my friends, 
-	'T is not too late to seek a newer world. 
-	Push off, and sitting well in order smite 
-	The sounding furrows; for my purpose holds 
-	To sail beyond the sunset, and the baths 
-	Of all the western stars, until I die."
+    "Old age hath yet his honour and his toil;
+    Death closes all: but something ere the end,
+    Some work of noble note, may yet be done,
+    Not unbecoming men that strove with Gods.
+    The lights begin to twinkle from the rocks:
+    The long day wanes: the slow moon climbs: the deep
+    Moans round with many voices. Come, my friends,
+    'T is not too late to seek a newer world.
+    Push off, and sitting well in order smite
+    The sounding furrows; for my purpose holds
+    To sail beyond the sunset, and the baths
+    Of all the western stars, until I die."
 
-	- Lord Alfred Tennyson, "Ulysses"
+    - Lord Alfred Tennyson, "Ulysses"
 
 
 Software: Apple, Bare Bones, Github, Python, Wolfram
